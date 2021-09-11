@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project path="device/motorola/hannah" name="muhammad23012009/android_device_motorola_hannah" revision="lineage" remote="github" />
+ <project path="device/motorola/hannah-common" name="LineageOS/android_device_motorola_hannah-common" remote="github" />
+ <project path="device/motorola/msm8937-common" name="LineageOS/android_device_motorola_msm8937-common" remote="github" />
+ <project path="kernel/motorola/msm8953" name="LineageOS/android_kernel_motorola_msm8953" remote="github" />
+ <project path="vendor/motorola" name="TheMuppets/proprietary_vendor_motorola" remote="github" />
+</manifest>
